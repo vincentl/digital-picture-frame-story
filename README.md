@@ -141,7 +141,8 @@ Photo slideshows feel polished with good transitions between photos. The frame s
 ![A marble Pietà sculpture, sharp in the center, floating over a softly blurred and enlarged copy of itself](images/cinematic-blur.png)
 _The cinematic-blur mat: the photo floats over a blurred, enlarged copy of itself — the "Apple-TV-aerial" look._
 
-https://github.com/user-attachments/assets/940f1d2a-24ae-4d5d-b931-aeda3353b45f
+<video src="https://github.com/user-attachments/assets/940f1d2a-24ae-4d5d-b931-aeda3353b45f" controls="controls" style="max-width: 730px;">
+</video>
 _Transition & Matting Showcase_
 
 The showcase mode cycles through a small set of photos and each transition and mat. Since each transition and mat has configuration options, the showcase can't demonstrate everything, but hopefully it gives an interesting sampling.
