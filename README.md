@@ -149,7 +149,7 @@ _Transition & Matting Showcase with Captions_
 The showcase mode cycles through a small set of photos and each transition and mat. Since each transition and mat has configuration options, the showcase can't demonstrate everything, but hopefully it gives an interesting sampling.
 
 ![The frame's wake screen: "Warming up your photo memories…"](images/awake-screen.jpeg)
-_Waking up for the day._
+_Waking up for the day_
 
 The software is [open source under the MIT license](https://github.com/vincentl/rust-photo-frame) so you can build your own.
 
