@@ -110,7 +110,7 @@ $ git log --pretty='%s' | sort | uniq -c | sort -rn | head
    2 removed unneeded directive
 ```
 
-The five `wifi debug` commits didn't even crack the top three. The iris transition alone got "tuned" nine times and "polished" eight more (and still didn't make the v1.0 release); a greeting screen was committed six times under the hopeful title _"should appear"_ — before it actually did.
+The five `wifi debug` commits didn't even crack the top three. The iris transition alone got "tuned" nine times and "polished" eight more (and still didn't make the v1.0 release — though it finally shipped in one more marathon session); a greeting screen was committed six times under the hopeful title _"should appear"_ — before it actually did.
 
 What broke the loop wasn't more patches — it was a stronger model and changing how I prompted.
 
@@ -136,7 +136,7 @@ I tend the frame remotely over **Tailscale**. I've updated it twice since giving
 
 One small touch from the scheduling algorithm: when I load a new batch of photos, they play more often, on average, than the older photos, so she sees them quickly. For her, it is fun and exciting to see all the new photos while keeping the surprise of rotation over time. It doesn't guarantee every photo appears in a short window, but it helps.
 
-Photo slideshows feel polished with good transitions between photos. The frame ships **eight transitions** — cross-fades, a gentle Ken-Burns zoom, an e-ink-style flash, slat and radial reveals — and **nine mats**, from a museum-board studio mat to a soft drop shadow to a blurred, Apple-TV-aerial backdrop. I run them all; I genuinely like every one.
+Photo slideshows feel polished with good transitions between photos. The frame ships **nine transitions** — cross-fades, a gentle Ken-Burns zoom, an e-ink-style flash, slat and radial reveals, and the hard-won mechanical camera iris — and **nine mats**, from a museum-board studio mat to a soft drop shadow to a blurred, Apple-TV-aerial backdrop. I run them all; I genuinely like every one.
 
 ![A marble Pietà sculpture, sharp in the center, floating over a softly blurred and enlarged copy of itself](images/cinematic-blur.png)
 _The cinematic-blur mat: the photo floats over a blurred, enlarged copy of itself — the "Apple-TV-aerial" look._
