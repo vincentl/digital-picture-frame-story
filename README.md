@@ -149,7 +149,7 @@ _The cinematic-blur mat: the photo floats over a blurred, enlarged copy of itsel
 
 _Transition & Matting Showcase with Captions_
 
-The showcase mode cycles through a small set of photos and each transition and mat. Since each transition and mat has configuration options, the showcase can't demonstrate everything, but hopefully it gives an interesting sampling.
+The showcase mode cycles through a small set of photos and each transition and mat. Since each transition and mat has configuration options, the showcase can't demonstrate everything, but hopefully it gives an interesting sampling. This capture was made with version 1.0, before the iris transition existed and before the 4K frame-rate work.
 
 ![The frame's wake screen: "Warming up your photo memories…"](images/awake-screen.jpeg)
 _Waking up for the day_
