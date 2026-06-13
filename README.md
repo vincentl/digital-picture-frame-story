@@ -138,6 +138,9 @@ One small touch from the scheduling algorithm: when I load a new batch of photos
 
 Photo slideshows feel polished with good transitions between photos. The frame ships **nine transitions** — cross-fades, a gentle Ken-Burns zoom, an e-ink-style flash, slat and radial reveals, and the hard-won mechanical camera iris — and **nine mats**, from a museum-board studio mat to a soft drop shadow to a blurred, Apple-TV-aerial backdrop. I run them all; I genuinely like every one.
 
+![Nine dark camera-iris blades closed into a polygonal aperture around the Statue of Liberty, the blades curving in a slight spiral](images/iris.png)
+_The iris transition, caught mid-close: nine blades pivot shut over one photo and reopen on the next, like a camera aperture. It animates — this is a single frame of the motion._
+
 ![A marble Pietà sculpture, sharp in the center, floating over a softly blurred and enlarged copy of itself](images/cinematic-blur.png)
 _The cinematic-blur mat: the photo floats over a blurred, enlarged copy of itself — the "Apple-TV-aerial" look._
 
