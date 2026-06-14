@@ -144,7 +144,7 @@ _The iris transition, caught mid-close: nine blades pivot shut over one photo an
 ![A marble Pietà sculpture, sharp in the center, floating over a softly blurred and enlarged copy of itself](images/cinematic-blur.png)
 _The cinematic-blur mat: the photo floats over a blurred, enlarged copy of itself — the "Apple-TV-aerial" look._
 
-<video src="https://github.com/user-attachments/assets/940f1d2a-24ae-4d5d-b931-aeda3353b45f" controls="controls" style="max-width: 730px;">
+<video src="https://github.com/user-attachments/assets/43ffc113-167f-44a0-a2f3-024e58cb2d2e" controls="controls" style="max-width: 730px;">
 </video>
 
 _Transition & Matting Showcase with Captions_
